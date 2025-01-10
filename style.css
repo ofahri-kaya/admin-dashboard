@@ -215,7 +215,7 @@ body {
     grid-area: main;
     background-color: var(--background-color);
     display: grid;
-    grid-template: auto auto / 3fr 1fr;
+    grid-template: auto 1fr / 3fr 1fr;
     padding: 1.5rem;
     padding-top: 0.5rem;
     gap: 2rem;
